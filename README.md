@@ -8,3 +8,6 @@ basic plotting with Matplotlib
 
 # Week 2: 
 seaborn package, a powerful tool based on Matplotlib that internally performs necessary statistical aggregation and mapping functions to create informative plots.
+
+# Week 3:
+
