@@ -10,4 +10,12 @@ basic plotting with Matplotlib
 seaborn package, a powerful tool based on Matplotlib that internally performs necessary statistical aggregation and mapping functions to create informative plots.
 
 # Week 3:
+In week 3 we introduced Bokeh, which is another Python plotting tool. In this session we created Scatter, line, Bar, Pie and Donut plots with Bokeh
 
+# Week 4:
+Object Oriented Programming: It is necessary to get familiar with Object Oriented Programming paradigm to get ready for future lectures in the class which is Computer graphics and rendering 3D models in python
+
+# Week 5: 
+Tableau!...
+
+1. Please install Tableau software from here \href{https://public.tableau.com/app/discover}{Download Tableau}
