@@ -19,3 +19,8 @@ Object Oriented Programming: It is necessary to get familiar with Object Oriente
 Tableau!...
 
 1. Please install Tableau software from here [Tableau](https://public.tableau.com/app/discover)
+2. Install and Activate Tableau
+3. Download these two datasets from kaggle: [videogame 
+sales](https://www.kaggle.com/datasets/gregorut/videogamesales) and 
+[Starbucks 
+Stores](https://www.kaggle.com/datasets/starbucks/store-locations)
