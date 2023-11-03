@@ -24,3 +24,14 @@ Tableau!...
 sales](https://www.kaggle.com/datasets/gregorut/videogamesales) and 
 [Starbucks 
 Stores](https://www.kaggle.com/datasets/starbucks/store-locations)
+
+# Weak 6:
+Tutorial on Blender: a free and open-source 3D computer graphics software tool set used for creating animated films, visual effects, art, 3D-printed models, motion graphics, 
+interactive 3D applications, virtual reality, and, formerly, video games.
+This week we explored the environment of the Blender software: 
+1. how to define/move/rotate/scale/add/remove an objects
+2. how to utilize different panels in Blender environment
+3. What are the key components of a "Scene" in Blender
+
+Please check this link [Blender](https://www.blender.org/) and download Blender for free! Start working with Blender and explore its environments. We will be working with Blender in 
+our future homework assignments...
